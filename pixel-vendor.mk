@@ -104,4 +104,5 @@ PRODUCT_PACKAGES += \
     SoundPickerPrebuilt \
     SettingsIntelligenceGooglePrebuilt \
     WeatherPixelPrebuilt \
-    Flipendo
+    Flipendo \
+    PixelSetupWizard
