@@ -94,6 +94,7 @@ PRODUCT_PACKAGES += \
     MarkupGoogle \
     SoundPickerPrebuilt \
     FilesPrebuilt \
+    MaestroPrebuilt \
     SettingsIntelligenceGooglePrebuilt \
     Flipendo \
     PixelSetupWizard
