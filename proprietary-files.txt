@@ -86,7 +86,6 @@ product/media/audio/ui/Unlock.ogg
 product/media/audio/ui/VideoRecord.ogg
 product/media/audio/ui/VideoStop.ogg
 product/media/audio/ui/WirelessChargingStarted.ogg
-product/priv-app/FilesPrebuilt/FilesPrebuilt.apk;PRESIGNED
 product/priv-app/SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk;OVERRIDES=SettingsIntelligence;PRESIGNED
 system_ext/app/Flipendo/Flipendo.apk
 system_ext/etc/permissions/privapp-permissions-google-se.xml
