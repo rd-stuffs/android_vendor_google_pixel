@@ -5,14 +5,6 @@
     <!-- This is meant to be the canonical feature identifying 2017 and newer Nexus devices. -->
     <feature name="com.google.android.feature.PIXEL_2017_EXPERIENCE" />
 
-    <!--
-       This is the canonical feature identifying devices which bundle Google Fi support. The
-       Fi app and associated apps will be bundled (but may be disabled until a matching SIM
-       is inserted).
-       This feature may not be present before Android S.
-    -->
-    <feature name="com.google.android.feature.GOOGLE_FI_BUNDLED" />
-
     <!-- Allow SCONE JobIntentService & Services to run in background -->
     <allow-in-power-save package="com.google.android.apps.scone" />
 
@@ -69,7 +61,14 @@
         <component class=".RegulatoryInfoDisplayActivity" enabled="true" />
     </component-override>
 
+    <!-- Disable legacy Switch Access. -->
+    <component-override package="com.google.android.marvin.talkback" >
+        <component class="com.android.switchaccess.SwitchAccessService" enabled="false" />
+    </component-override>
+
     <!-- Feature flag on RVC builds for AER requirements, b/159247801 -->
     <feature name="com.google.android.feature.AER_OPTIMIZED" />
 
+    <!-- Corresponds to PackageManager.FEATURE_WALLET_LOCATION_BASED_SUGGESTIONS. -->
+    <feature name="android.software.wallet_location_based_suggestions" />
 </config>
