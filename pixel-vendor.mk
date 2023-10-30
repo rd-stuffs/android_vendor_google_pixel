@@ -105,4 +105,11 @@ PRODUCT_PACKAGES += \
     SettingsIntelligenceGooglePrebuilt \
     WeatherPixelPrebuilt \
     Flipendo \
-    PixelSetupWizard
+    PixelSetupWizard \
+    SystemUIClocks-BigNum \
+    SystemUIClocks-Calligraphy \
+    SystemUIClocks-Flex \
+    SystemUIClocks-Growth \
+    SystemUIClocks-Inflate \
+    SystemUIClocks-NumOverlap \
+    SystemUIClocks-Weather

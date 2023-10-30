@@ -96,3 +96,10 @@ product/priv-app/SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePr
 system_ext/app/Flipendo/Flipendo.apk
 system_ext/etc/permissions/privapp-permissions-google-se.xml
 system_ext/priv-app/PixelSetupWizard/PixelSetupWizard.apk;PRESIGNED
+system_ext/priv-app/SystemUIClocks-BigNum/SystemUIClocks-BigNum.apk
+system_ext/priv-app/SystemUIClocks-Calligraphy/SystemUIClocks-Calligraphy.apk
+system_ext/priv-app/SystemUIClocks-Flex/SystemUIClocks-Flex.apk
+system_ext/priv-app/SystemUIClocks-Growth/SystemUIClocks-Growth.apk
+system_ext/priv-app/SystemUIClocks-Inflate/SystemUIClocks-Inflate.apk
+system_ext/priv-app/SystemUIClocks-NumOverlap/SystemUIClocks-NumOverlap.apk
+system_ext/priv-app/SystemUIClocks-Weather/SystemUIClocks-Weather.apk
