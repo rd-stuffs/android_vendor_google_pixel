@@ -99,7 +99,6 @@ PRODUCT_PACKAGES += \
     MarkupGoogle \
     SoundPickerPrebuilt \
     FilesPrebuilt \
-    MaestroPrebuilt \
     SecurityHubPrebuilt \
     SettingsIntelligenceGooglePrebuilt \
     Flipendo \
