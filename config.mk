@@ -14,7 +14,7 @@
 
 # Automated
 $(call inherit-product, vendor/google/pixel/pixel-vendor.mk)
-$(call inherit-product, vendor/aospa/prebuilt/pixel.mk)
+$(call inherit-product, vendor/aospa/prebuilt/pixel/packages.mk)
 
 # Overlays
 PRODUCT_PACKAGES += \
