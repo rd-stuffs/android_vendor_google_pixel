@@ -13,9 +13,6 @@ product/etc/sysconfig/pixel_experience_2019_midyear.xml
 product/etc/sysconfig/pixel_experience_2019.xml
 product/etc/sysconfig/pixel_experience_2020_midyear.xml
 product/etc/sysconfig/pixel_experience_2020.xml
-product/etc/sysconfig/preinstalled-packages-product-pixel-2017-and-newer.xml
-product/etc/sysconfig/preinstalled-packages-product-pixel-2018-and-newer.xml
-product/etc/sysconfig/preinstalled-packages-product-pixel-2019-and-newer.xml
 product/fonts/GoogleSansClock-Regular.ttf
 product/fonts/GoogleSansFlex-Regular.ttf
 product/fonts/GoogleSans-Italic.ttf
@@ -104,3 +101,10 @@ system_ext/priv-app/SystemUIClocks-Inflate/SystemUIClocks-Inflate.apk
 system_ext/priv-app/SystemUIClocks-Metro/SystemUIClocks-Metro.apk
 system_ext/priv-app/SystemUIClocks-NumOverlap/SystemUIClocks-NumOverlap.apk
 system_ext/priv-app/SystemUIClocks-Weather/SystemUIClocks-Weather.apk
+
+# Preinstalled packages - husky_beta-user-15-AP31.240517.022-11948202-release-keys
+product/etc/sysconfig/preinstalled-packages-product-pixel-2017-and-newer.xml|b08bf69f16db5361e6febd7afba8cc0adee7b04f
+product/etc/sysconfig/preinstalled-packages-product-pixel-2018-and-newer.xml|478abe648b3afdfbfb9a7d9fb4742355d77459da
+product/etc/sysconfig/preinstalled-packages-product-pixel-2019-and-newer.xml|7c7c2a15571adfcfc42b382ff313b12736bcabe5
+product/etc/sysconfig/preinstalled-packages-product-pixel-2022-and-newer.xml|512f40b0dfeff1701e4ef9708f16f7c879edd3b9
+product/etc/sysconfig/preinstalled-packages-product-pixel-2023-and-newer.xml|b6b42f0e8961883672eb7d7e929c947dd4cb6b8d
