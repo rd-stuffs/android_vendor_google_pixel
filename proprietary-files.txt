@@ -103,7 +103,7 @@ system_ext/priv-app/SystemUIClocks-NumOverlap/SystemUIClocks-NumOverlap.apk
 system_ext/priv-app/SystemUIClocks-Weather/SystemUIClocks-Weather.apk
 
 # Preinstalled packages - husky_beta-user-15-AP31.240517.022-11948202-release-keys
-product/etc/sysconfig/preinstalled-packages-product-pixel-2017-and-newer.xml|b08bf69f16db5361e6febd7afba8cc0adee7b04f
+product/etc/sysconfig/preinstalled-packages-product-pixel-2017-and-newer.xml|9a4ab9a274d6cf49c6471b102016c8594f146190
 product/etc/sysconfig/preinstalled-packages-product-pixel-2018-and-newer.xml|478abe648b3afdfbfb9a7d9fb4742355d77459da
 product/etc/sysconfig/preinstalled-packages-product-pixel-2019-and-newer.xml|7c7c2a15571adfcfc42b382ff313b12736bcabe5
 product/etc/sysconfig/preinstalled-packages-product-pixel-2022-and-newer.xml|512f40b0dfeff1701e4ef9708f16f7c879edd3b9
